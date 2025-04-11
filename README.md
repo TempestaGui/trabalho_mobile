@@ -1,4 +1,4 @@
-# 📲 **TaskMobileApp**
+# 📲 **AV1**
 
 Bem-vindo(a) ao repositório! 🎉  
 Este projeto foi criado utilizando **React Native** como parte das atividades da disciplina de **Desenvolvimento Mobile**.
@@ -24,6 +24,10 @@ Este projeto foi criado utilizando **React Native** como parte das atividades da
 ## 💡 **Dica**
 
 Para executar o projeto localmente, certifique-se de seguir corretamente os passos de configuração disponíveis no [site oficial do React Native](https://reactnative.dev/docs/environment-setup).
+
+---
+
+## 🐈‍⬛ **Git**
 git clone https://github.com/seu-usuario/TaskMobileApp.git  
 cd TaskMobileApp  
 npm install  
