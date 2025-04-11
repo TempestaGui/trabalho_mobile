@@ -1,25 +1,29 @@
-📱 TaskMobileApp
-Seja bem-vindo(a) ao repositório! 🚀
-Este projeto foi desenvolvido utilizando React Native como parte das atividades da disciplina de Desenvolvimento Mobile.
+# 📲 **TaskMobileApp**
 
-🔧 Tecnologias
-React Native
+Bem-vindo(a) ao repositório! 🎉  
+Este projeto foi criado utilizando **React Native** como parte das atividades da disciplina de **Desenvolvimento Mobile**.
 
-JavaScript (ES6+)
+---
 
-Ferramentas e bibliotecas para desenvolvimento mobile
+## 🧰 **Tecnologias Utilizadas**
 
-📁 Organização dos Arquivos
-/src: Código-fonte principal da aplicação
+- ⚛️ React Native  
+- 📜 JavaScript  
+- 🛠️ Ferramentas para desenvolvimento mobile
 
-/components: Imagens, ícones e outros recursos visuais
+---
 
-README.md: Arquivo com informações e instruções sobre o projeto
+## 📁 **Organização do Projeto**
 
-🚀 Como Executar Localmente
-Antes de tudo, certifique-se de ter o ambiente do React Native configurado corretamente. Você pode seguir o guia oficial em: https://reactnative.dev/docs/environment-setup
+- `/src`: Código-fonte da aplicação  
+- `/assets`: Imagens, ícones e outros arquivos estáticos  
+- `README.md`: Documentação geral do repositório
 
-Depois disso:
+---
+
+## 💡 **Dica**
+
+Para executar o projeto localmente, certifique-se de seguir corretamente os passos de configuração disponíveis no [site oficial do React Native](https://reactnative.dev/docs/environment-setup).
 git clone https://github.com/seu-usuario/TaskMobileApp.git  
 cd TaskMobileApp  
 npm install  
