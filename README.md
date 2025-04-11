@@ -2,6 +2,7 @@
 
 Bem-vindo(a) ao repositório! 🎉  
 Este projeto foi criado utilizando **React Native** como parte das atividades da disciplina de **Desenvolvimento Mobile**.
+`Guilherme Tempesta Francisco (2312130221)`. 
 
 ---
 
