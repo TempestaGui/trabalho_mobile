@@ -29,6 +29,6 @@ Para executar o projeto localmente, certifique-se de seguir corretamente os pass
 
 ## 🐈‍⬛ **Git**
 git clone https://github.com/TempestaGui/trabalho_mobile 
-cd TaskMobileApp  
+cd trabalho_mobile  
 npm install  
 npx react-native run-android
