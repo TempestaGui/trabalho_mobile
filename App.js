@@ -27,7 +27,7 @@ export default function App() {
         <InputField label="Nome:" value={nome} onChangeText={setNome} />
         <InputField label="Telefone" value={Telefone} onChangeText={setTelefone} />
 
-        <BotaoAdcinar title={rotulo_input_bnt} onPress={addMeta} />
+        <BotaoAdcinar  title={rotulo_input_bnt} onPress={addMeta} />
 
         <ListaContatos lista={lista} />
 
@@ -45,8 +45,9 @@ export const styles = StyleSheet.create({
     justifyContent: 'flex-start',
   },
   labelTitle: {
-    padding: 10,
+    marginBottom: 20,
     fontSize: 20,
     fontWeight: 'bold',
+    textAlign: 'left',
   },
 });
