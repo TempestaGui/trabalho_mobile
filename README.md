@@ -16,7 +16,7 @@ Este projeto foi criado utilizando **React Native** como parte das atividades da
 ## 📁 **Organização do Projeto**
 
 - `/src`: Código-fonte da aplicação  
-- `/assets`: Imagens, ícones e outros arquivos estáticos  
+- `/contents`: Imagens, ícones e outros arquivos estáticos  
 - `README.md`: Documentação geral do repositório
 
 ---
@@ -28,7 +28,7 @@ Para executar o projeto localmente, certifique-se de seguir corretamente os pass
 ---
 
 ## 🐈‍⬛ **Git**
-git clone https://github.com/seu-usuario/TaskMobileApp.git  
+git clone https://github.com/TempestaGui/trabalho_mobile 
 cd TaskMobileApp  
 npm install  
 npx react-native run-android
